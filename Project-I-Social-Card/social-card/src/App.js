@@ -8,8 +8,7 @@ const App = () => {
   return (
     <div>
     <HeaderContainer />
-    <HeadersContent />
-    <ImageThumbnail />
+  
     </div>
     // <div>
     //   {/* <h3>Welcome to React Social Card!</h3>

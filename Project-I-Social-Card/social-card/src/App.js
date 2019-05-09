@@ -3,12 +3,13 @@ import './App.css';
 import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 import HeadersContent from './components/HeaderComponents/HeaderContent';
 import ImageThumbnail from './components/HeaderComponents/ImageThumbnail';
+import CardContainer from './components/CardComponents/CardContainer';
 
 const App = () => {
   return (
     <div>
     <HeaderContainer />
-  
+    <CardContainer />
     </div>
     // <div>
     //   {/* <h3>Welcome to React Social Card!</h3>
